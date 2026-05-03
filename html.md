@@ -67,3 +67,20 @@
 -ol (odered list)
 -li (list items)
 
+---
+
+## Table Tags
+
+-table (container)
+-thead (header)
+-tbody 
+-tfoot (conclusion)
+-tr (row)
+-td (data to write)
+-th (heading)
+-caption (title)
+-colgroup (group)
+-col (coulumn)
+-colspan (merging two rows to one)
+
+
