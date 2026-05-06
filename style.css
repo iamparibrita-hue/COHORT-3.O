@@ -1,0 +1,16 @@
+div{
+    color: rgb(147, 30, 30);
+    background-color:rgb(187, 121, 249);
+    font-size: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight:  200;
+    font-style: italic;
+    font-family: palisade;
+   contain-intrinsic-height: calc();
+   width: 100%
+   
+   
+
+}
+
