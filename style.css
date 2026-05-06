@@ -7,7 +7,7 @@ div{
     font-weight:  200;
     font-style: italic;
     font-family: palisade;
-   contain-intrinsic-height: calc();
+    height: 100%;
    width: 100%
    
    
